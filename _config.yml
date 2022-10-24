@@ -27,7 +27,7 @@
 title: Your awesome title
 email: your-email@domain.com
 author: GitHub User
-theme: jekyll-theme-yat
+# theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # Copyright setting
