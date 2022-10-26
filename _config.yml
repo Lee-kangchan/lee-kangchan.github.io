@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: 찬이네 Blog
+email: lsc4237@gmail.com
+author: Lee-kangchan
 # theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
