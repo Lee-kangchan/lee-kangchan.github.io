@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 생성자 대신 정적 팩토리 메서드를 고려
-subtitle: 2022년 엄청 바쁘고 힘들었던 나의 신입 여정 
+subtitle: 생성자 대신 정적 팩토리 메서드를 고려
 categories: blog
 tags: [java]
 ---
