@@ -2,7 +2,7 @@
 layout: post
 title: 생성자에 매개변수가 많다면 빌더를 고려해라
 subtitle: 생성자에 매개변수가 많다면 빌더를 고려해라
-categories: blog
+categories: java
 tags: [java]
 ---
 
@@ -10,7 +10,7 @@ tags: [java]
 
 ## 생성자가 많으면 대응하기가 어렵다.
 
-```jsx
+```java
 public class user{
 	private String email;
 	private String pw;
@@ -44,7 +44,7 @@ User user = new User(email, pw, nm, nickname, phone, birth, ...)
 
 ## 빌더 패턴
 
-```jsx
+```java
 User user = User.builder().
 						email(email).
 						pw(pw).
