@@ -1,8 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-alembic-jekyll-theme-*.gem
+*.gem
+.bundle
+.ruby-version
+.jekyll-cache
+.sass-cache
+_site
 Gemfile.lock
-**/Gemfile.lock
-
+node_modules
+.DS_Store
